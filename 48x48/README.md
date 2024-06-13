@@ -13,6 +13,6 @@ Cuz I think it is way cool!
 
 ## Build Steps
 
-## Acredidation
+## Accreditation
 
 - [BOOMY Tech](https://youtu.be/e-veSULytC4)
